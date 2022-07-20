@@ -5,7 +5,7 @@ the page loads, add 1 to the cookie’s value and log it to the console. For exa
 value of the cookie would be 1 on the first page load, 2 on the second load, etc. Extra
 Credit: On the page, create a button that resets the cookie’s value to 0 when clicked.
 
-![Diagram](/images/diagram.png)
+![Diagram](https://github.com/poprygun/circle/blob/master/cookie-setter/images/diagram.png)
 
 ## Run the server
 
